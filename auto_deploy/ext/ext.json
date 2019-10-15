@@ -1,0 +1,15 @@
+{
+  "debug_mode": true,
+  "cloud_username": "root",
+  "cloud_password": "qdreamer",
+  "cloud_login_url": "http://cloud.qdreamer.com/admin/login/",
+  "cloud_add_server_url": "http://cloud.qdreamer.com/admin/qcloud_app/server_device_verify_tb/add/",
+  "install_packages": [
+    "gcc",
+    "make",
+    "libcurl4-openssl-dev",
+    "libgfortran3",
+    "redis-server",
+    "axel"
+  ]
+}
