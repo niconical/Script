@@ -1,2 +1,2 @@
 # Script
-some script written by me
+some script
